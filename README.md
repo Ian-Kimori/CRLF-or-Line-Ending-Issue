@@ -1,6 +1,5 @@
 # CRLF-or-Line-Ending-Issue
 
-# CRLF / Line Ending Issues
 > Detection, diagnosis, and all fix methods — quick to advanced
 
 ---
